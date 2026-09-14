@@ -1,3 +1,86 @@
+# 📊 Power BI Project 4 — Azure SQL Database
+## Brands & Details Dashboard
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Azure-SQL%20Database-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-Data%20Analysis-F2C811?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20Query-ETL-742774?style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 Project Overview
+
+This project is an end-to-end **Power BI data analytics project** built using **Azure SQL Database** as the primary data source.
+
+The dashboard focuses on analyzing **Brands and Details data** and presenting meaningful business insights through interactive Power BI visualizations.
+
+---
+
+## 🔗 Live Power BI App
+
+<p align="center">
+
+### 👉 [Open Power BI App](YOUR_POWER_BI_APP_LINK)
+
+</p>
+
+The Power BI App provides a clean and interactive way to explore the published dashboard and its analytical insights.
+
+---
+
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="./assets/dashboard.png" alt="Power BI Brands and Details Dashboard" width="900"/>
+</p>
+
+---
+
+## 🎯 Project Objectives
+
+- Analyze brand-level performance
+- Explore detailed business information
+- Identify important trends and patterns
+- Build interactive Power BI visuals
+- Connect Power BI with Azure SQL Database
+- Create a professional end-to-end analytics solution
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Tool | Purpose |
+|------|---------|
+| Power BI | Data Visualization & Dashboard |
+| Azure SQL Database | Data Source |
+| Power Query | Data Cleaning & Transformation |
+| DAX | Calculations & Measures |
+| Data Modeling | Relationship & Model Design |
+| SQL | Data Extraction & Analysis |
+
+---
+
+## 🔄 Project Workflow
+
+```text
+Azure SQL Database
+        ↓
+   Power Query
+        ↓
+Data Transformation
+        ↓
+   Data Modeling
+        ↓
+       DAX
+        ↓
+Power BI Dashboard
+        ↓
+   Power BI App
+
+
+
 # Men's Fashion Brand Analytics Dashboard
 
 ## 📊 Power BI Business Intelligence Project
