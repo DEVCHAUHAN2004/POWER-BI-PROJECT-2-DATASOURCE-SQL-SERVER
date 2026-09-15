@@ -1,4 +1,4 @@
-# 📊 Power BI Project 4 — Azure SQL Database
+# 📊 Power BI Project 4 —  SQL SERVER MANAGEMENT STUDIO  Database
 ## Brands & Details Dashboard
 
 <p align="center">
