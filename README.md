@@ -1,6 +1,7 @@
 # 📊 Power BI Project 4 —  SQL SERVER MANAGEMENT STUDIO  Database
 ## Brands & Details Dashboard
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Azure-SQL%20Database-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
